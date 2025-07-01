@@ -56,7 +56,7 @@
   }
 }
 
-/* Terapkan animasi dengan delay */
+/* Aplicar animação com atraso */
 .title span {
   opacity: 0;
   animation: typing 1s ease forwards;
